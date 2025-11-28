@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SurajSharki
 - 👀 I’m interested in doing coding
-- 🌱 I’m currently learning about python
+- 🌱 I’m currently practing and learning about frontend
 - 💞️ I’m looking to collaborate on selflearning
 
 
